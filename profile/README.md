@@ -29,8 +29,7 @@ Founded and led by **Lorenzo Pellegrini** — Senior Software Architect with 14+
 |---------|-------------|--------|
 | 🤖 **Alessia Bot** | AI-powered virtual assistant — known since 2016 | 🟢 Active |
 | 🎮 **Undead Series** | AI-driven gaming experience built with Unreal Engine 5 | 🔵 In Development |
-| 🌐 **IntraOS** | Intelligent operating ecosystem for digital environments | 🔵 In Development |
-| 🛡️ **CyberSec Division** | Ethical hacking, privacy consulting & threat intelligence | 🟢 Active |
+| 🌐 **IntraOS** | Intelligent operating ecosystem for digital environments | 🟢 Active |
 
 ---
 
