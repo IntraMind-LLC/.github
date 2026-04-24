@@ -98,7 +98,7 @@ Founded and led by **Lorenzo Pellegrini** — Senior Software Architect with 14+
 
 We're always open to collaborations, partnerships, and talent.
 
-📍 **8605 Santa Monica Blvd, West Hollywood, Los Angeles, CA 90069 — United States**
+📍 **8605 Santa Monica Blvd, West Hollywood, Los Angeles, CA 90069**
 
 [![Website](https://img.shields.io/badge/Visit%20Our%20Website-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58a6ff)](https://www.intramind-srl.com/)
 [![Email Us](https://img.shields.io/badge/Send%20Us%20an%20Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ea4335)](mailto:contacts@intramind-srl.com)
