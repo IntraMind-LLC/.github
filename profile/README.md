@@ -17,7 +17,7 @@
 
 ## 🧠 Who We Are
 
-**IntraMind LLC** is a US-based SaaS startup and global digital ecosystem at the intersection of **Artificial Intelligence**, **Gaming**, and **Cybersecurity**. We build intelligent, scalable, and experience-driven platforms that empower users, protect digital identities, and shape the future of entertainment.
+**IntraMind LLC** is a US-based SaaS startup and global digital ecosystem at the intersection of **Artificial Intelligence**, **Gaming**, and **Entertainment**. We build intelligent, scalable, and experience-driven platforms that empower users, protect digital identities, and shape the future of entertainment.
 
 Founded and led by **Lorenzo Pellegrini** — Senior Software Architect with 14+ years of experience and a passion for pushing the boundaries of technology — IntraMind is on a mission to become a **global benchmark in AI-driven digital experiences**.
 
