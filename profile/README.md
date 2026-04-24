@@ -27,9 +27,18 @@ Founded and led by **Lorenzo Pellegrini** — Senior Software Architect with 14+
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| 🤖 **Alessia Bot** | AI-powered virtual assistant — known since 2016 | 🟢 Active |
-| 🎮 **Undead Series** | AI-driven gaming experience built with Unreal Engine 5 | 🔵 In Development |
-| 🌐 **IntraOS** | Intelligent operating ecosystem for digital environments | 🟢 Active |
+| 🤖 **Alessia Bot** | Smart, Conversational AI — entertainment chatbot known since 2016 | 🟢 Active |
+| 🌐 **IntraOS** | Central Hub & Social Network for the IntraMind ecosystem | 🟢 Active |
+| 🎨 **Creator Console AI** | Virtual Social Media Manager — Innovative Creative Intelligence | 🟢 Active |
+| 🔗 **Links Hub** | Customizable Link-in-Bio Hub — Seamless Information Access | 🟢 Active |
+| 🌍 **IntraMind Network** | Network for streamers and content creators | 🟢 Active |
+| 📚 **IntraLearn** | All-in-One Tech Learning — E-Learning Platform | 🟢 Active |
+| ❓ **Anonymous Questions** | Anonymous Q&A Feature — Unfiltered Insights, Securely | 🟢 Active |
+| 📱 **Social Media Content** | Social media content and live streaming — Create, Share, Engage | 🟢 Active |
+| 📝 **IntraBlog** | Digital entertainment and IT blog — Tech & Culture Insights | 🔵 Beta |
+| 🏢 **The Workspace** | Integrated Collaborative Environment — Employee Retention & Wellness | 🔵 Beta |
+| 🎮 **IntraGame** | Text-Based MMORPG — Play & Connect | 🔵 Beta |
+| 💀 **UNDEAD** | Souls-like MMORPG Videogame — Rise from the Grave | 🟡 Coming Soon |
 
 ---
 
@@ -61,6 +70,11 @@ Founded and led by **Lorenzo Pellegrini** — Senior Software Architect with 14+
 **AI & Game Dev**
 
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine_5-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D4A852?style=flat-square&logo=anthropic&logoColor=white)
+![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=flat-square&logo=perplexity&logoColor=white)
+![Grok](https://img.shields.io/badge/Grok-000000?style=flat-square&logo=x&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![Mistral](https://img.shields.io/badge/Mistral_AI-FF7000?style=flat-square&logo=mistral&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
 </div>
@@ -84,6 +98,8 @@ Founded and led by **Lorenzo Pellegrini** — Senior Software Architect with 14+
 
 We're always open to collaborations, partnerships, and talent.
 
+📍 **8605 Santa Monica Blvd, West Hollywood, Los Angeles, CA 90069 — United States**
+
 [![Website](https://img.shields.io/badge/Visit%20Our%20Website-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58a6ff)](https://www.intramind-srl.com/)
 [![Email Us](https://img.shields.io/badge/Send%20Us%20an%20Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ea4335)](mailto:contacts@intramind-srl.com)
 
@@ -94,6 +110,6 @@ We're always open to collaborations, partnerships, and talent.
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f36,100:0d1117&height=100&section=footer" width="100%"/>
 
-*© 2025 IntraMind LLC — United States of America*
+*© 2026 IntraMind LLC — All Rights Reserved*
 
 </div>
