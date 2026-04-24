@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f36,100:0d1117&height=200&section=header&text=IntraMind%20LLC&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=Crafting%20the%20Future%20of%20AI%20%E2%80%A2%20Entertainment%20%E2%80%A2%20Cybersecurity&descAlignY=60&descSize=18&descColor=8b949e" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f36,100:0d1117&height=200&section=header&text=IntraMind%20LLC&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=Crafting%20the%20Future%20of%20AI%20%E2%80%A2%20Entertainment%20%E2%80%A2%20Gaming&descAlignY=60&descSize=18&descColor=8b949e" width="100%"/>
 
 <!-- BADGES -->
 [![Website](https://img.shields.io/badge/Website-intramind--srl.com-58a6ff?style=for-the-badge&logo=globe&logoColor=white)](https://www.intramind-srl.com/)
