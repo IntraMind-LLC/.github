@@ -33,6 +33,7 @@ Founded and led by **Lorenzo Pellegrini** — Senior Software Architect with 14+
 | 🔗 **Links Hub** | Customizable Link-in-Bio Hub — Seamless Information Access | 🟢 Active |
 | 🌍 **IntraMind Network** | Network for streamers and content creators | 🟢 Active |
 | 📚 **IntraLearn** | All-in-One Tech Learning — E-Learning Platform | 🟢 Active |
+| 💬 **IntraChat** | WhatsApp-like messaging application for AI models | 🟢 Active |
 | ❓ **Anonymous Questions** | Anonymous Q&A Feature — Unfiltered Insights, Securely | 🟢 Active |
 | 📱 **Social Media Content** | Social media content and live streaming — Create, Share, Engage | 🟢 Active |
 | 📝 **IntraBlog** | Digital entertainment and IT blog — Tech & Culture Insights | 🔵 Beta |
